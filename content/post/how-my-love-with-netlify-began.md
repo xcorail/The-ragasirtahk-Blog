@@ -13,7 +13,7 @@ keywords:
   - What is so special about Netlify
   - Why use Netlify
   - Free Netlify Stickers
-autoThumbnailImage: true
+autoThumbnailImage: false
 thumbnailImagePosition:
   - top
 coverImage: /images/uploads/cover-post.jpg
