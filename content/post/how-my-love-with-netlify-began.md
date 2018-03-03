@@ -1,5 +1,5 @@
 ---
-title: How my love with Netlify began
+title: Why I recommend Netlify
 date: 2018-02-15T10:23:08.945Z
 categories:
   - blog
