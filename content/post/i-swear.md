@@ -26,7 +26,7 @@ I swear, Oh, I swear
 
 I still miss you
 
-
+<br><br>
 
 High octane days
 
@@ -42,7 +42,7 @@ I swear, Oh, I swear
 
 I still miss you
 
-
+<br><br>
 
 Then the darker days
 
@@ -56,7 +56,7 @@ I swear, Oh, I swear
 
 I still miss you
 
-
+<br><br>
 
 Still I wonder
 
