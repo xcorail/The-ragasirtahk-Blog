@@ -16,7 +16,7 @@ coverImage: /images/uploads/cover-post.jpg
 ---
 <center>
   
-The first time
+->The first time
 
 I saw you
 
@@ -126,7 +126,7 @@ I accept it
 
 Anyhow
 
-Still better
+Still better<- 
 
 My first time
 </center>
