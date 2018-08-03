@@ -14,7 +14,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-I swear I miss you
+->I swear I miss you
 
 The magical nights
 
@@ -68,4 +68,4 @@ Will you still?
 
 I swear I miss you
 
-Please come.
+Please come.<-
