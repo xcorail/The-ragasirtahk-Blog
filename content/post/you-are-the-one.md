@@ -26,7 +26,7 @@ You are the one
 
 Yeah, you are the one
 
-
+<br><br>
 
 You bring me to life
 
@@ -42,7 +42,7 @@ You are the one
 
 Yeah, you are the one
 
-
+<br><br>
 
 Counting the stars
 
@@ -56,7 +56,7 @@ You are the one
 
 Yeah, you are the one
 
-
+<br><br>
 
 You take me high
 
