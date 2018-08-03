@@ -14,6 +14,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
+<center>
 The first time
 
 I saw you
@@ -26,7 +27,7 @@ And then you smile
 
 That first time
 
-
+<br><br>
 
 I wondered why
 
@@ -40,7 +41,7 @@ Beside me
 
 For first time
 
-
+<br><br>
 
 The chain of
 
@@ -56,7 +57,7 @@ Mine?
 
 That first time
 
-
+<br><br>
 
 You wipe my
 
@@ -72,7 +73,7 @@ And you understood
 
 That first time
 
-
+<br><br>
 
 Walking the dangers
 
@@ -86,7 +87,7 @@ I still love you
 
 From first time
 
-
+<br><br>
 
 Asking you out
 
@@ -100,7 +101,7 @@ Magic
 
 My first time
 
-
+<br><br>
 
 More than
 
@@ -116,7 +117,7 @@ Breaking my heart
 
 For first time
 
-
+<br><br>
 
 But still
 
@@ -127,3 +128,4 @@ Anyhow
 Still better
 
 My first time
+</center>
