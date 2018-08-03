@@ -14,7 +14,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-You are the one
+->You are the one
 
 Oh, the reason for smile
 
@@ -66,4 +66,4 @@ But you are the one
 
 Yeah, you are the one
 
-Please stay.
+Please stay.<-
