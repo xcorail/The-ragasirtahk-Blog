@@ -15,6 +15,7 @@ thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
 <center>
+  
 The first time
 
 I saw you
