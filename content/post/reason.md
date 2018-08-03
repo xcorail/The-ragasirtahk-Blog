@@ -1,6 +1,13 @@
 ---
 title: Reason
 date: '2018-08-03T21:19:17+05:30'
+categories:
+  - blog
+  - random pens
+tags:
+  - Poetry
+  - Random Thoughts
+  - Random Writings
 keywords:
   - Poem on Reason (Poetry)
 autoThumbnailImage: false
