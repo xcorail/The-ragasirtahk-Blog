@@ -14,7 +14,7 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-Dear reason
+->Dear reason
 
 I was a bully
 
@@ -96,4 +96,4 @@ Were you Atlantis?
 
 Oh, love
 
-Please speak.
+Please speak.<-
