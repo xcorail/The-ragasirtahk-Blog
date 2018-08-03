@@ -1,5 +1,6 @@
 ---
 title: Reason
+date: '2018-08-03T21:19:17+05:30'
 keywords:
   - Poem on Reason (Poetry)
 autoThumbnailImage: false
