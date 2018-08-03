@@ -24,7 +24,7 @@ Withholding me
 
 Imaginary?
 
-
+<br><br>
 
 You were shy
 
@@ -36,7 +36,7 @@ Sans efforts
 
 Imaginary?
 
-
+<br><br>
 
 I was worn
 
@@ -48,7 +48,7 @@ I lived
 
 Imaginary?
 
-
+<br><br>
 
 That’s history
 
