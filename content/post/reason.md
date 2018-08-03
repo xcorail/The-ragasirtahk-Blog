@@ -24,7 +24,7 @@ You were a magic
 
 A beauty
 
-
+<br><br>
 
 Dear reason
 
@@ -40,7 +40,7 @@ Morphed me
 
 Oh, reason
 
-
+<br><br>
 
 Life was history
 
@@ -56,7 +56,7 @@ Morphing my
 
 Oh, reason
 
-
+<br><br>
 
 Dear reason
 
@@ -68,7 +68,7 @@ You changed me
 
 Wow, reason
 
-
+<br><br>
 
 Dear reason
 
@@ -86,7 +86,7 @@ You helped me
 
 Oh, reason
 
-
+<br><br>
 
 Pondering thoughts
 
