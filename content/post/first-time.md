@@ -126,7 +126,7 @@ I accept it
 
 Anyhow
 
-Still better<- 
+Still better
 
-My first time
+My first time<-
 </center>
