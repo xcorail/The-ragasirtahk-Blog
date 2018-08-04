@@ -14,86 +14,48 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-->Dear reason
-
-I was a bully
-
-A sadist
-
-You were a magic
-
+<center>
+Dear reason<br>
+I was a bully<br>
+A sadist<br>
+You were a magic<br>
 A beauty
-
 <br><br>
-
-Dear reason
-
-I was quiet
-
-Hiding things
-
-Un-notified pings
-
-You were might
-
-Morphed me
-
+Dear reason<br>
+I was quiet<br>
+Hiding things<br>
+Un-notified pings<br>
+You were might<br>
+Morphed me<br>
 Oh, reason
-
 <br><br>
-
-Life was history
-
-Love: uncovered mystery
-
-Hidden wisdoms
-
-Unspoken kingdoms
-
-Entered thy
-
-Morphing my
-
+Life was history<br>
+Love: uncovered mystery<br>
+Hidden wisdoms<br>
+Unspoken kingdoms<br>
+Entered thy<br>
+Morphing my<br>
 Oh, reason
-
 <br><br>
-
-Dear reason
-
-I am a supporter
-
-A lover
-
-You changed me
-
+Dear reason<br>
+I am a supporter<br>
+A lover<br>
+You changed me<br>
 Wow, reason
-
 <br><br>
-
-Dear reason
-
-Neglected things
-
-Now magical
-
-Imagination wings
-
-Euphoria
-
-Beautiful now
-
-You helped me
-
+Dear reason<br>
+Neglected things<br>
+Now magical<br>
+Imagination wings<br>
+Euphoria<br>
+Beautiful now<br>
+You helped me<br>
 Oh, reason
-
 <br><br>
-
-Pondering thoughts
-
-Words I wrote
-
-Were you Atlantis?
-
+Pondering thoughts<br>
+Words I wrote<br>
+Were you Atlantis?<br>
 Oh, love
-
-Please speak.<-
+<br><br>
+Please speak.
+</center>
