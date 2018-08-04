@@ -15,35 +15,33 @@ thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
 <center>
-I swear I miss you
-The magical nights
-The 3 AM fights
-The promises of life
-I swear, Oh, I swear
+I swear I miss you<br>
+The magical nights<br>
+The 3 AM fights<br>
+The promises of life<br>
+I swear, Oh, I swear<br>
 I still miss you
-
 <br><br>
-High octane days
-My octave maze
-You were the guide
-Fighting my odds
-More like a torch
-I swear, Oh, I swear
+High octane days<br>
+My octave maze<br>
+You were the guide<br>
+Fighting my odds<br>
+More like a torch<br>
+I swear, Oh, I swear<br>
 I still miss you
-
 <br><br>
-Then the darker days
-The world’s odds
-I don’t know why
-Why you leave me
-I swear, Oh, I swear
+Then the darker days<br>
+The world’s odds<br>
+I don’t know why<br>
+Why you leave me<br>
+I swear, Oh, I swear<br>
 I still miss you
-
 <br><br>
 Still I wonder
-Promises of life
-I will be there
-Will you still?
+Promises of life<br>
+I will be there<br>
+Will you still?<br>
 I swear I miss you
+<br><br>
 Please come.
 </center>
