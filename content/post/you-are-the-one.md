@@ -14,56 +14,33 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-->You are the one
-
-Oh, the reason for smile
-
-Love in the Californian drive
-
-The soul of my emptiness
-
-You are the one
-
+<center>
+You are the one<br>
+Oh, the reason for smile<br>
+Love in the Californian drive<br>
+The soul of my emptiness<br>
+You are the one<br>
 Yeah, you are the one
-
 <br><br>
-
-You bring me to life
-
-Hope in the darkness
-
-For let the sunshine
-
-Removing the clouds
-
-Uplifting my soul
-
-You are the one
-
+You bring me to life<br>
+Hope in the darkness<br>
+For let the sunshine<br>
+Remove the clouds<br>
+Uplifting my soul<br>
+You are the one<br>
 Yeah, you are the one
-
 <br><br>
-
-Counting the stars
-
-Those silly nights
-
-The petty fights
-
-The empty minds
-
-You are the one
-
+Counting the stars<br>
+Those silly nights<br>
+The petty fights<br>
+The empty minds<br>
+You are the one<br>
 Yeah, you are the one
-
 <br><br>
-
-You take me high
-
-I don’t know why
-
-But you are the one
-
+You take me high<br>
+I don’t know why<br>
+But you are the one<br>
 Yeah, you are the one
-
-Please stay.<-
+<br><br>
+Please stay.
+</center>
