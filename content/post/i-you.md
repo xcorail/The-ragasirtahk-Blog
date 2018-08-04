@@ -75,5 +75,5 @@ You be the girl<br>
 I flip the pan<br>
 You swing the curl
 <br><br>
-Give me chance.
+Give me a chance.
 </center>
