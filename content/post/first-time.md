@@ -27,7 +27,7 @@ If anytime<br>
 Will you talk?<br>
 Will you walk?<br>
 Beside me<br>
-For first time<br>
+For first time
 <br><br>
 The chain of<br>
 Attraction<br>
