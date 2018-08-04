@@ -14,50 +14,29 @@ autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
-->I recall
-
-You did the talks
-
-Mystical walks
-
-Withholding me
-
+<center>
+I recall<br>
+You did the talks<br>
+Mystical walks<br>
+Withholding me<br>
 Imaginary?
-
 <br><br>
-
-You were shy
-
-My heart’s pie
-
-Living me softly
-
-Sans efforts
-
+You were shy<br>
+My heart’s pie<br>
+Living me softly<br>
+Sans efforts<br>
 Imaginary?
-
 <br><br>
-
-I was worn
-
-Heavenly light
-
-I was blessed
-
-I lived
-
+I was worn<br>
+Heavenly light!<br>
+I was blessed<br>
+I lived<br>
 Imaginary?
-
 <br><br>
-
-That’s history
-
-More like mystery
-
-Unwept thoughts
-
-Remind me
-
-You were there
-
-Imaginery.<-
+That’s history<br>
+More like mystery<br>
+Unwept thoughts<br>
+Remind me<br>
+You were there<br>
+Imaginery.
+</center>
