@@ -15,68 +15,61 @@ thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
 ---
 <center>
-The first time
-I saw you
-You had my sight
-Withheld by might
-And then you smile
+The first time<br>
+I saw you<br>
+You had my sight<br>
+Withheld by might<br>
+And then you smile<br>
 That first time
-
 <br><br>
-I wondered why
-If anytime
-Will you talk?
-Will you walk?
-Beside me
-For first time
-
+I wondered why<br>
+If anytime<br>
+Will you talk?<br>
+Will you walk?<br>
+Beside me<br>
+For first time<br>
 <br><br>
-The chain of
-Attraction
-Losing our
-Traction
-Were you
-Mine?
+The chain of<br>
+Attraction<br>
+Losing our<br>
+Traction<br>
+Were you<br>
+Mine?<br>
 That first time
-
 <br><br>
-You wipe my
-Tears
-Forgiving my fears
-I ain’t feeble
-It’s just the past
-And you understood
+You wipe my<br>
+Tears<br>
+Forgiving my fears<br>
+I ain’t feeble<br>
+It’s just the past<br>
+And you understood<br>
 That first time
-
 <br><br>
-Walking the dangers
-Fearing the strangers
-Please don’t shy
-I remember thy
-I still love you
+Walking the dangers<br>
+Fearing the strangers<br>
+Please don’t shy<br>
+I remember thy<br>
+I still love you<br>
 From first time
-
 <br><br>
-Asking you out
-That weird shout
-You gave me
-I rave you
-Magic
+Asking you out<br>
+That weird shout<br>
+You gave me<br>
+I rave you<br>
+Magic<br>
 My first time
-
 <br><br>
-More than
-Friends
-I believe
-We were
-But you refuse
-Breaking my heart
+More than<br>
+Friends<br>
+I believe<br>
+We were<br>
+But you refuse<br>
+Breaking my heart<br>
 For first time
-
 <br><br>
-But still
-I accept it
-Anyhow
-Still better
-My first time<-
+But still<br>
+I accept it<br>
+Anyhow<br>
+Still better<br>
+My first time
 </center>
