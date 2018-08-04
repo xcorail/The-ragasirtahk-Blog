@@ -1,5 +1,5 @@
 ---
-title: It's you
+title: It's You
 date: '2018-08-04T3:00:53+05:30'
 categories:
   - blog
