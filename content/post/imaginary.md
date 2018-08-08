@@ -1,5 +1,5 @@
 ---
-title: Imaginery
+title: Imaginary
 date: '2018-08-03T21:13:54+05:30'
 categories:
   - blog
@@ -9,7 +9,7 @@ tags:
   - Random Thoughts
   - Random Writings
 keywords:
-  - Poem on Imaginery (Poetry)
+  - Poem on Imaginary (Poetry)
 autoThumbnailImage: false
 thumbnailImagePosition: top
 coverImage: /images/uploads/cover-post.jpg
@@ -38,5 +38,5 @@ More like mystery<br>
 Unwept thoughts<br>
 Remind me<br>
 You were there<br>
-Imaginery.
+Imaginary.
 </center>
