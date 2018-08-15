@@ -25,7 +25,7 @@ I carry heart<br>
 Beautiful dove<br>
 Leads our cart
 <br><br>
-14 years later<br>
+14 years<br>
 Wonderful marriage<br>
 You serve the platter<br>
 I lead the carriage
