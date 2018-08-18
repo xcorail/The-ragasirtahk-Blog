@@ -75,8 +75,6 @@ As I sleep<br>
 You wake me up<br>
 I catch for you<br>
 But you disappear<br>
-That’s all I fear<br>
-Not sharpened spear<br>
 Please hold on<br>
 Or let me go<br>
 Before it’s too late<br>
