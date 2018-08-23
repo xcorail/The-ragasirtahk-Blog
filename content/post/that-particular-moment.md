@@ -1,5 +1,5 @@
 ---
-title: That particular moment
+title: That Particular Moment
 date: '2018-08-07T21:21:54+05:30'
 categories:
   - blog
