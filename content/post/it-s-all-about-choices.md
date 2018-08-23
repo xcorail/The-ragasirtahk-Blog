@@ -1,5 +1,5 @@
 ---
-title: It's all about choices
+title: It's all About Choices
 date: '2018-08-23T11:26:28+05:30'
 categories:
   - blog
