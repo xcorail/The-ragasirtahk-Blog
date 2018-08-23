@@ -1,6 +1,6 @@
 ---
 title: It's all about choices
-date: '2018-08-23T21:26:28+05:30'
+date: '2018-08-23T11:26:28+05:30'
 categories:
   - blog
   - random pens
