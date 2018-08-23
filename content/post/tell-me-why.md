@@ -1,5 +1,5 @@
 ---
-title: Tell me why
+title: Tell Me Why
 date: '2018-08-07T21:19:54+05:30'
 categories:
   - blog
