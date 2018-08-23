@@ -1,5 +1,5 @@
 ---
-title: So strange
+title: So Strange
 date: '2018-08-07T21:17:54+05:30'
 categories:
   - blog
