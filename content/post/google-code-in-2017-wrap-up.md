@@ -30,23 +30,23 @@ I completed a total of 20 tasks in Google Code-in 2017. Here is a list of the ta
 
 Tasks completed for **Drupal**:
 
-1. Test and Review simplytest.me
-2. Fix an issue for any Social Initiative project
-3. Write a Readme.txt for any module or theme
-4. Implement Instagram Block Module
-5. Add keywords to 7 Community Documentation pages
-6. Create a basic form page
-7. Create a simple E-Commerce webiste using Drupal Commerce Kickstart
-8. Create a Drupal blog and host it using any free VPS
-9. Create a multilingual site - Drupalladder
-10. Organize a Drupal installation/basics workshop at your school
-11. Test Drupal 8 default theme on Multiple Devices in Multiple Browsers
-12. Get involved with the Drupal Social Initiative
-13. Learning how to create patch interdiffs
-14. Submit a patch to any contrib Drupal 8 module
-15. Find a NGO and help them develop a site using Drupal
-16. Add a geolocation map to your Drupal website/blog
-17. Write 3-paragraph essay to explain what is Drupal to grandpa/grandma
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
 
 Tasks completed for **Sustainable Computing Research Group (SCoRe)**:
 
