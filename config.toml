@@ -18,7 +18,6 @@ defaultContentLanguage = "en-us"
 title = "The ragasirtahk Blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "the-ragasirtahk-blog"
-googleAnalytics = "UA-96539727-5"
 paginate = 7
 canonifyurls = true
 
